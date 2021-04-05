@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Sai Mohan Reddy Dalli
+#### To unlock 🔓 the full access to my profile, Smile 😃 is the key 🔑
 
-<!--
-**smr-dalli/smr-dalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Artificial Intelligence at Strive School.
+- 👯 I’m looking to collaborate on interesting projects in the feild of Machine learning, Deep Learning, Computer Vision and NLP.
+- 🤔 I’m looking for help with combining the knowledge of AI in the field of Engineering.
+- 💬 Ask me about AI, Mechanical/ Computational Methods in Engineering, Cricket and Indian Food.
+- 📫 How to reach me: mohandsai3@gmail.com, [Instagram](https://www.instagram.com/saimohandalli/)
+- ⚡ Fun fact: I am a shy guy 😇 untill I found a comfortable space with you.
+
+
+[![SMR-Dalli's GitHub stats](https://github-readme-stats.vercel.app/api?username=smr-dalli)](https://github.com/smr-dalli/github-readme-stats)
