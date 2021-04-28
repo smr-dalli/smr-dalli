@@ -1,5 +1,5 @@
-### Hi there 👋, How is life post Covid? 🤔
-#### To unlock 🔓 the full access to my profile, Smile 😃 is the key 🔑
+### Hi there 👋
+#### Smile 😃 You deserve to be happy !!!
 
 
 
