@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning Artificial Intelligence at Strive School.
+- 🌱 I’m have completed my 6 months Artificial Intelligence bootcamp at Strive School.
 - 👯 I’m looking to collaborate on interesting projects in the feild of Machine learning, Deep Learning, Computer Vision and Natural Language Processing.
 - 🤔 I’m looking for help with combining the knowledge of AI in the field of Engineering.
 - 💬 Ask me about AI, Mechanical/ Computational Methods in Engineering, Cricket and Indian Food.
